@@ -1,7 +1,7 @@
 # pytoggl
 
-`pytoggl` attempts to provide a simple Python 3 wrapper for the (Toggl
-API)[https://github.com/toggl/toggl_api_docs].
+`pytoggl` attempts to provide a simple Python 3 wrapper for the [Toggl
+API](https://github.com/toggl/toggl_api_docs).
 
 The developement will be driven by a specific use case (a tray icon app). The
 goal is to provide a high-level abstraction for the complete API, but
